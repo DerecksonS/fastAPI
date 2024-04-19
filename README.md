@@ -13,4 +13,4 @@ Main libraries used:
 - fastapi
 - pydantic
 
--- project still as a work in progress, deployment phase under construction -- 
+-- project still as a work in progress, deployment phase under construction 🚧 -- 
