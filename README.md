@@ -12,5 +12,6 @@ Main libraries used:
 - alembic
 - fastapi
 - pydantic
+- TO DO
 
 -- project still as a work in progress, deployment phase under construction 🚧 -- 
